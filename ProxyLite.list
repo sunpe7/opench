@@ -1,6 +1,7 @@
 # 代理补充列表
 
 # 自定义
+DOMAIN,gdmf.apple.com
 DOMAIN-SUFFIX,bntrace.com
 
 # 域名后缀匹配
