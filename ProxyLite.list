@@ -4,6 +4,8 @@
 DOMAIN,gdmf.apple.com
 DOMAIN,gsas.apple.com
 DOMAIN-SUFFIX,log.bntrace.com
+DOMAIN-SUFFIX,git.rancher.io
+DOMAIN-SUFFIX,grafana.com
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,qichiyu.com
