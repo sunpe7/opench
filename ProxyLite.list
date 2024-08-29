@@ -6,7 +6,6 @@ DOMAIN,gsas.apple.com
 DOMAIN-SUFFIX,log.bntrace.com
 DOMAIN-SUFFIX,git.rancher.io
 DOMAIN-SUFFIX,grafana.com
-DOMAIN-SUFFIX,jmssub.net
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,qichiyu.com
