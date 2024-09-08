@@ -3,7 +3,6 @@
 # 自定义
 DOMAIN,gdmf.apple.com
 DOMAIN,gsas.apple.com
-DOMAIN,raw.githubusercontent.com
 DOMAIN-SUFFIX,log.bntrace.com
 DOMAIN-SUFFIX,git.rancher.io
 DOMAIN-SUFFIX,grafana.com
