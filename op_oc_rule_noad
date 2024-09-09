@@ -1,5 +1,5 @@
 [custom]
-
+;https://github.com/Aethersailor/Custom_OpenClash_Rules
 ;自定义规则集
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/sunpe7/opench/main/Direct.list
 ruleset=🚀 节点选择,https://raw.githubusercontent.com/sunpe7/opench/main/ProxyLite.list
